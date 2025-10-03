@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "68acbc188ea65de05317fd5d"
+  },
+  "guest": {
+    "$oid": "68a760664fed2930aaef48ba"
+  },
+  "guestEmail": "arshan@gmail.com",
+  "rating": 5,
+  "comments": "room is very good",
+  "createdAt": {
+    "$date": "2025-08-25T19:40:08.041Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "68a76f278a8fe97843c0bce8"
+  },
+  "roomName": "Bed Room",
+  "roomNumber": 123,
+  "roomType": "Standard",
+  "price": 66000,
+  "status": "reserved",
+  "image": "1755803431442-451313623-blog3.jpg",
+  "description": "Experience luxury living where every detail ensures absolute guest comfort.",
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2025-08-21T19:10:31.478Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T21:02:31.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a8b1681a3d01c4ca04bb6f"
+  },
+  "roomName": "Deluxe Comfort",
+  "roomNumber": 456,
+  "roomType": "Deluxe",
+  "price": 70000,
+  "status": "reserved",
+  "image": "1755885928511-273745861-pexels-fotoaibe-1743231.jpg",
+  "description": "Unwind in elegant rooms designed for peace and perfect relaxation",
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2025-08-22T18:05:28.541Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T20:41:15.267Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a8b1a91a3d01c4ca04bb73"
+  },
+  "roomName": "Serenity Suite",
+  "roomNumber": 53,
+  "roomType": "Suite",
+  "price": 90000,
+  "status": "available",
+  "image": "1755885993037-406163591-pexels-asphotograpy-97083.jpg",
+  "description": "Wake refreshed in stylish spaces blending comfort, charm, and convenience.",
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2025-08-22T18:06:33.105Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-23T17:57:49.752Z"
+  },
+  "__v": 0
+}]

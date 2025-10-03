@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "68acca6b8ea65de05317fe32"
+  },
+  "guest": null,
+  "guestName": "arshan",
+  "room": {
+    "$oid": "68a8b1681a3d01c4ca04bb6f"
+  },
+  "checkIn": {
+    "$date": "2025-08-05T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2025-08-27T00:00:00.000Z"
+  },
+  "adults": 2,
+  "children": 1,
+  "roomCount": 1,
+  "dynamicPrice": 92575,
+  "role": "guest",
+  "createdAt": {
+    "$date": "2025-08-25T20:41:15.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68accf67594cad6471da8145"
+  },
+  "guest": null,
+  "guestName": "arshan",
+  "room": {
+    "$oid": "68a76f278a8fe97843c0bce8"
+  },
+  "checkIn": {
+    "$date": "2025-08-04T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2025-08-20T00:00:00.000Z"
+  },
+  "adults": 2,
+  "children": 1,
+  "roomCount": 1,
+  "dynamicPrice": 87285,
+  "role": "guest",
+  "createdAt": {
+    "$date": "2025-08-25T21:02:31.420Z"
+  },
+  "__v": 0
+}]
